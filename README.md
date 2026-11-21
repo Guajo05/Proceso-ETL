@@ -26,7 +26,4 @@ Este proyecto implementa un proceso ETL (Extract, Transform, Load) en Python par
 1. Clonar el repositorio.
 2. Crear y activar un entorno virtual: `python -m venv venv`
 3. Instalar dependencias: `pip install -r requirements.txt`
-4. Crear un archivo `.env` con las credenciales de conexión:
-   ```env
-   DB_SERVER=localhost\SQLEXPRESS
-   DB_NAME=OpinionesClientesDB
+4. Crear un archivo `.env` con las credenciales de conexión
